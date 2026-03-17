@@ -2,11 +2,17 @@
 
 This repository contains a collection of Python examples showing how to use Airia's API.
 
-## Examples
+## API Examples
+A collection of Python examples demonstrating direct usage of Airia's API.
 
-- [`sync_data_source.py`](sync_data_source.py) - Basic setup and simple API calls
-- [`file_upload_and_pipeline_execution.py`](file_upload_and_pipeline_execution.py) - Uploads a file for use within an agent pipeline's execution.
-- [`on_demand.py`](on_demand.py) - Uploads a file for OnDemand Processing.
+- [`on_demand.py`](api_examples/on_demand.py) - Uploads a file for OnDemand Processing.
+- [`sync_data_source.py`](api_examples/sync_data_source.py) - Basic setup and simple API calls
+- [`file_upload_and_pipeline_execution.py`](api_examples/file_upload_and_pipeline_execution.py) - Uploads a file for use within an agent pipeline's execution.
+
+## Utilities
+A collection of useful Python scripts for common tasks.
+
+- [`md_to_pdf.py`](utilities/md_to_pdf.py) - Converts a Markdown file to a PDF.
 
 ## Airia Team Repos
 
