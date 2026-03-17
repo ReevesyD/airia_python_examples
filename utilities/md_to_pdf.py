@@ -1,7 +1,6 @@
 """
 Markdown to PDF Converter
 
-
 How to use:
 1. Install the dependency: pip install markdown-pdf
 2. Update the two variables below with your values
